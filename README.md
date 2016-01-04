@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for Data Scientist Toolbox Coursera Course Assignment
+Repository for Data Scientist Toolbox Coursera Course Assignment
